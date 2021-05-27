@@ -1,1 +1,2 @@
-# PSG_face_recognition_players_AI
+# PSG face recognition players
+
