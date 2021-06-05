@@ -28,5 +28,11 @@ This repositery hosts a project of face recognition of PSG Players. The Neural N
 This dataset contains PSG players faces. It includes Kylian Mbappé, Neymar, Marco Verratti, Marquinhos and Keylor Navas. Images were scrapped using Selenium library on a Google Images. 
 
 
+<p float="left">
+  <img src="https://github.com/thomastrg/PSG_face_recognition_players_AI/blob/main/readme/neymar.PNG" />
+  <img src="https://github.com/thomastrg/PSG_face_recognition_players_AI/blob/main/readme/mbappe.PNG" />
+</p>
+
+
 <br>
  
