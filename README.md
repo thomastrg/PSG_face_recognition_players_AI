@@ -38,7 +38,7 @@ This dataset contains PSG players faces. It includes Kylian Mbappé, Neymar, Mar
 
 <br> <br>
 <br>
-## **Our Neural network has an accuracy of 0.91 on the training set with is very good and 0.7 for the validation set.** Below you can see a test on the neural network with is successful. 
+## **Our Neural network has an accuracy of 0.91 on the training set and 0.7 for the validation set.** Below you can see a test on the neural network with is successful. 
 <p float="left">
   <img src="https://github.com/thomastrg/PSG_face_recognition_players_AI/blob/main/readme/output.PNG" />
   
