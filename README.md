@@ -12,9 +12,10 @@ ___
 
 
 ## You will find in this repositery : 
-* [The scrapping code]()
-* [The images]()
-* [The Neural Network notebook]()
+* [The scrapping code](https://github.com/thomastrg/PSG_face_recognition_players_AI/tree/main/Scrapping)
+* [The images](https://github.com/thomastrg/PSG_face_recognition_players_AI/tree/main/faces)
+* [The Neural Network notebook](https://github.com/thomastrg/PSG_face_recognition_players_AI/blob/main/psg_face_recognition.ipynb)
+* [The cropping faces code](https://github.com/thomastrg/PSG_face_recognition_players_AI/blob/main/Cropping%20images-Process%20images.ipynb)
 
 ## Introduction 
 
@@ -31,6 +32,17 @@ This dataset contains PSG players faces. It includes Kylian Mbappé, Neymar, Mar
 <p float="left">
   <img src="https://github.com/thomastrg/PSG_face_recognition_players_AI/blob/main/readme/neymar.PNG" />
   <img src="https://github.com/thomastrg/PSG_face_recognition_players_AI/blob/main/readme/mbappe.PNG" />
+  
+  
+</p>
+
+<br> <br>
+<br>
+## **Our Neural network has an accuracy of 0.91 on the training set with is very good and 0.7 for the validation set.** Below you can see a test on the neural network with is successful. 
+<p float="left">
+  <img src="https://github.com/thomastrg/PSG_face_recognition_players_AI/blob/main/readme/output.PNG" />
+  
+  
 </p>
 
 
