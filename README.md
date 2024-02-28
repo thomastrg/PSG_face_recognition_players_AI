@@ -6,7 +6,7 @@ This repositery hosts a project of face recognition of PSG Players. The Neural N
 
 <br> 
 <p align="center">
-  <img src="https://www.plspronos.fr/wp-content/uploads/2020/08/logo-psg.png" />
+  <img src="https://www.plspronos.fr/wp-content/uploads/2020/08/logo-psg.png" /> 
 </p>
 
 <br>
